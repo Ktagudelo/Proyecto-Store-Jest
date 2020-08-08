@@ -1,1 +1,2 @@
-# Proyecto_Store_Jest
+# platzi-store
+Curso de Pruebas unitarias con Jest
